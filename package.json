@@ -1,5 +1,5 @@
 {
-  "name": "@qt/tap",
+  "name": "qt-tap",
   "version": "1.0.0",
   "description": "一个解决移动端300ms延迟的tap插件",
   "main": "dist/tap.js",
@@ -16,9 +16,6 @@
     "rollup-plugin-terser": "^5.1.2",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9"
-  },
-  "publishConfig": {
-    "registry": ""
   },
   "dependencies": {
     "@babel/core": "^7.6.4",
