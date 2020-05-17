@@ -19,3 +19,5 @@ divDom.addEventListener('tap', function(){
   alert('tap')
 })
 ```
+
+[查看线上demo](https://ncushujian.github.io/tap/demo/dist/test.html)
